@@ -16,3 +16,4 @@ require_once('includes/base_helpers.php');
 require_once('includes/custom_post_helpers.php');
 require_once('includes/acf_helpers.php');
 require_once('includes/attribute_helpers.php');
+require_once('includes/basic_attributes.php');
