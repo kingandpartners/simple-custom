@@ -1,0 +1,18 @@
+{
+  "name": "kingandpartners/simple-custom",
+  "description": "adds helper functions to make custom posts and custom pages faster and easier to implement",
+  "keywords": ["wordpress", "plugin", "advancedcustomfields", "acf", "simple", "custom"],
+  "homepage": "https://github.com/kingandpartners/simple-custom",
+  "license": "This software is NOT to be distributed, but can be INCLUDED in WP themes: Premium or Contracted.",
+  "authors": [
+    {
+      "name": "Justin Grubbs",
+      "email": "justin@kingandpartners.com",
+      "homepage": "http://www.kingandpartners.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
